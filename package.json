@@ -24,7 +24,7 @@
     "debug": "^4.4.1",
     "mocha": "^11.7.1",
     "nyc": "^17.1.0",
-    "supports-color": "10.1.0"
+    "supports-color": "10.2.0"
   },
   "devDependencies": {
     "typescript": "5.9.2"
