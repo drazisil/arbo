@@ -27,6 +27,6 @@
     "supports-color": "10.2.2"
   },
   "devDependencies": {
-    "typescript": "5.9.2"
+    "typescript": "5.9.3"
   }
 }
